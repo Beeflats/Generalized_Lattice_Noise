@@ -1,1 +1,1 @@
-# KNNnoise
+# Generalized lattice noise
